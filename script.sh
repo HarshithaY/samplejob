@@ -1,1 +1,1 @@
-echo "This is my first jenkins job"
+echo "This is my first webhook jenkins job"
